@@ -101,7 +101,7 @@ export function Experience() {
                     <Briefcase className="text-[#C89B6D]" size={24} />
                   </div>
                   <div className="flex-1">
-                    <h3 className="md:text-xl text-[1px] font-bold text-gray-900">{exp.role}</h3>
+                    <h3 className="md:text-xl text-[16px] font-bold text-gray-900">{exp.role}</h3>
                     <p className="text-[#C89B6D] font-semibold text-[14px] md:text-lg">{exp.company}</p>
                     <div className="flex items-center gap-2 md:text-sm text-[12px] text-gray-500 mt-1">
                       <Calendar size={14} />
