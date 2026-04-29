@@ -65,6 +65,7 @@ export function Navbar() {
             ))}
             <a
               href={resume}
+              target="_blank" rel="noopener noreferrer"
               className="bg-[#C89B6D] text-white px-6 py-2 rounded-full font-medium hover:bg-[#A67C52] transition-colors"
             >
               Resume
